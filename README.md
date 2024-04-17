@@ -8,11 +8,14 @@ In the favorites tab you can check all your favorite marked movies or even unmar
 In the search tab you can search for any other movie, check its details and mark it as a favorite.
 
 It was the first personal project I built, and it is currently published in the App Store:
+
 https://apps.apple.com/es/app/genie-movies/id6447447949
 
 I hope you enjoy the app.
 
 -Nathalie
+
+<img src="https://github.com/nat-cesarino/GenieMovies/assets/27686439/eb7d4804-bdf2-4202-96b6-2015ddfa4328" width="200" > <img src="https://github.com/nat-cesarino/GenieMovies/assets/27686439/54efdd6c-8467-46b7-88aa-1e17737cdf7c" width="200" > <img src="https://github.com/nat-cesarino/GenieMovies/assets/27686439/c02be2cf-637d-4dfb-b4ec-c7da00633ff5" width="200" > <img src="https://github.com/nat-cesarino/GenieMovies/assets/27686439/15753cd6-76a8-4d06-af36-aa57cf3d1114" width="200" > 
 
 ## How to set up
 
